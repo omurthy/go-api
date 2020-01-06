@@ -1,4 +1,4 @@
-module go-contacts
+module go-api
 
 require (
 	github.com/denisenkom/go-mssqldb v0.0.0-20191001013358-cfbb681360f0 // indirect
@@ -18,7 +18,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/tools/godep v0.0.0-20180126220526-ce0bfadeb516 // indirect
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
-	golang.org/x/tools v0.0.0-20200103221440-774c71fcf114 // indirect
+	golang.org/x/tools v0.0.0-20200106190116-7be0a674c9fc // indirect
 	google.golang.org/appengine v1.6.4 // indirect
 )
 
